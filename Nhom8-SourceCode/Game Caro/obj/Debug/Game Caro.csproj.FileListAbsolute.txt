@@ -1,0 +1,105 @@
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\dangh\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.pdb
+E:\Kmin\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe.config
+E:\Kmin\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.exe
+E:\Kmin\Bài Cuối Khóa\Game Caro\bin\Debug\Game Caro.pdb
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.exe
+E:\Kmin\Bài Cuối Khóa\Game Caro\obj\Debug\Game Caro.pdb
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\bin\Debug\Game Caro.exe.config
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\bin\Debug\Game Caro.exe
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\bin\Debug\Game Caro.pdb
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\obj\Debug\Game Caro.exe
+F:\LapTrinhMang\game-caro-master\game-caro-master\Game Caro\obj\Debug\Game Caro.pdb
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.exe
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.pdb
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\bin\Debug\Game Caro.exe.config
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\bin\Debug\Game Caro.exe
+F:\LapTrinhMang\game-caro-master-final\game-caro-master\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\Asus\Documents\Zalo Received Files\game-caro-master-final\game-caro-master\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\Asus\OneDrive\Máy tính\2\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\User\Desktop\nháp\2 (1)\Game Caro\obj\Debug\Game Caro.pdb
+F:\LapTrinhMang\final\2 (1)\Game Caro\bin\Debug\Game Caro.exe.config
+F:\LapTrinhMang\final\2 (1)\Game Caro\bin\Debug\Game Caro.exe
+F:\LapTrinhMang\final\2 (1)\Game Caro\bin\Debug\Game Caro.pdb
+F:\LapTrinhMang\final\2 (1)\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+F:\LapTrinhMang\final\2 (1)\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+F:\LapTrinhMang\final\2 (1)\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+F:\LapTrinhMang\final\2 (1)\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+F:\LapTrinhMang\final\2 (1)\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+F:\LapTrinhMang\final\2 (1)\Game Caro\obj\Debug\Game Caro.exe
+F:\LapTrinhMang\final\2 (1)\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\User\Desktop\Nhom8-Lap TrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\ACER\Downloads\Nhom8-LapTrinhGameCaro\Nhom8-LapTrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Nhom8-LapTrinhGameCaro\Nhom8-LapTrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\ACER\Downloads\Nhom8-LapTrinhGameCaro\Nhom8-LapTrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Nhom8-LapTrinhGameCaro\Nhom8-LapTrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\ACER\Downloads\Nhom8-LapTrinhGameCaro\Nhom8-LapTrinhGameCaro\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.pdb
+C:\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Nhom8-SourceCode\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.exe
+C:\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.pdb
+C:\Nhom8-SourceCode\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Nhom8-SourceCode\Game Caro\bin\Debug\Game Caro.exe
+C:\Nhom8-SourceCode\Game Caro\bin\Debug\Game Caro.pdb
+C:\Nhom8-SourceCode\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Nhom8-SourceCode\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache

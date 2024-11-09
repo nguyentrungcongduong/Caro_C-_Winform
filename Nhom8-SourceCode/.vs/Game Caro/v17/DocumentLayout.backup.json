@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nhom8-SourceCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\gamecaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\gamecaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|c:\\nhom8-sourcecode\\game caro\\socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\gamecaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\gamecaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\gamecaro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\gamecaro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\images\\o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\images\\o.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\images\\x.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\images\\x.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\images\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\images\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\images\\banner.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\images\\banner.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\images\\banner uit.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\images\\banner uit.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\images\\forward.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\images\\forward.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\Nhom8-SourceCode\\game caro\\images\\background.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\images\\background.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\LapTrinhMang\\game-caro-master\\game-caro-master\\Game Caro\\SocketManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketManager.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\SocketManager.cs",
+              "RelativeDocumentMoniker": "Game Caro\\SocketManager.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\SocketManager.cs",
+              "RelativeToolTip": "Game Caro\\SocketManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:08:56.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SocketManager.cs",
+              "DocumentMoniker": "F:\\LapTrinhMang\\game-caro-master\\game-caro-master\\Game Caro\\SocketManager.cs",
+              "ToolTip": "F:\\LapTrinhMang\\game-caro-master\\game-caro-master\\Game Caro\\SocketManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:31:28.566Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Game Caro\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Game Caro\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAcwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:20:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SocketData.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\SocketData.cs",
+              "RelativeDocumentMoniker": "Game Caro\\SocketData.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\SocketData.cs",
+              "RelativeToolTip": "Game Caro\\SocketData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:31:25.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayInfo.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\PlayInfo.cs",
+              "RelativeDocumentMoniker": "Game Caro\\PlayInfo.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\PlayInfo.cs",
+              "RelativeToolTip": "Game Caro\\PlayInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:31:18.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCaro.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\GameCaro.cs",
+              "RelativeDocumentMoniker": "Game Caro\\GameCaro.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\GameCaro.cs",
+              "RelativeToolTip": "Game Caro\\GameCaro.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:14:10.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameCaro.cs [Design]",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\GameCaro.cs",
+              "RelativeDocumentMoniker": "Game Caro\\GameCaro.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\GameCaro.cs [Design]",
+              "RelativeToolTip": "Game Caro\\GameCaro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:15:25.113Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constance.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\Constance.cs",
+              "RelativeDocumentMoniker": "Game Caro\\Constance.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\Constance.cs",
+              "RelativeToolTip": "Game Caro\\Constance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:02:15.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Game Caro\\GameBoard.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\GameBoard.cs",
+              "RelativeToolTip": "Game Caro\\GameBoard.cs",
+              "ViewState": "AQIAAP0BAAAAAAAAAAAqwA4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:38:59.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\Player.cs",
+              "RelativeDocumentMoniker": "Game Caro\\Player.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\Player.cs",
+              "RelativeToolTip": "Game Caro\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:31:07.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameCaro.Designer.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\GameCaro.Designer.cs",
+              "RelativeDocumentMoniker": "Game Caro\\GameCaro.Designer.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\GameCaro.Designer.cs",
+              "RelativeToolTip": "Game Caro\\GameCaro.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAwwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:15:29.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "O.png",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\images\\O.png",
+              "RelativeDocumentMoniker": "Game Caro\\images\\O.png",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\images\\O.png",
+              "RelativeToolTip": "Game Caro\\images\\O.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-20T10:42:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "forward.png",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\images\\forward.png",
+              "RelativeDocumentMoniker": "Game Caro\\images\\forward.png",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\images\\forward.png",
+              "RelativeToolTip": "Game Caro\\images\\forward.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-20T09:45:27.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "icon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\images\\icon.ico",
+              "RelativeDocumentMoniker": "Game Caro\\images\\icon.ico",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Zalo Received Files\\game-caro-master-final\\game-caro-master\\Game Caro\\images\\icon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "..\\Users\\Asus\\Documents\\Zalo Received Files\\game-caro-master-final\\game-caro-master\\Game Caro\\images\\icon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-08-20T10:43:39.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "X.png",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\images\\X.png",
+              "RelativeDocumentMoniker": "Game Caro\\images\\X.png",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\images\\X.png",
+              "RelativeToolTip": "Game Caro\\images\\X.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-20T10:43:51.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "background.jpg",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\images\\background.jpg",
+              "RelativeDocumentMoniker": "Game Caro\\images\\background.jpg",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\images\\background.jpg",
+              "RelativeToolTip": "Game Caro\\images\\background.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-20T09:45:29.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "banner UIT.png",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\images\\banner UIT.png",
+              "RelativeDocumentMoniker": "Game Caro\\images\\banner UIT.png",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\images\\banner UIT.png",
+              "RelativeToolTip": "Game Caro\\images\\banner UIT.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-20T09:45:32.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "banner.jpg",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\images\\banner.jpg",
+              "RelativeDocumentMoniker": "Game Caro\\images\\banner.jpg",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\images\\banner.jpg",
+              "RelativeToolTip": "Game Caro\\images\\banner.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-20T09:45:35.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nhom8-SourceCode\\Game Caro\\Program.cs",
+              "RelativeDocumentMoniker": "Game Caro\\Program.cs",
+              "ToolTip": "C:\\Nhom8-SourceCode\\Game Caro\\Program.cs",
+              "RelativeToolTip": "Game Caro\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:31:21.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
